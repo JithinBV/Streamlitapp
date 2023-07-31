@@ -1,4 +1,4 @@
-pip install huggingface_hub
+!pip install huggingface_hub
 !pip install langchain
 
 import os
