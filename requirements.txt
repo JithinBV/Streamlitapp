@@ -1,3 +1,5 @@
-langchain_hub
+huggingface_hub
 langchain
-streamli
+streamlit
+langchain
+pip==23.2.1
